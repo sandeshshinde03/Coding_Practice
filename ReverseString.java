@@ -32,7 +32,6 @@ public class ReverseString {
         obj.reverseString(s);
         //obj.reverseStr(s);
         System.out.println();
-        System.out.println("\nReversed String is: " + new String(s));
         System.out.println(s);
         System.out.println(java.util.Arrays.toString(s));
     }
